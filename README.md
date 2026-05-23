@@ -24,7 +24,7 @@ Incoming B.Tech Computer Science & Engineering student (Class of 2030) with a st
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 💻 Tech Stack & Skills
 
 🔹 Languages: Python (Basic to Intermediate logic building)
 
